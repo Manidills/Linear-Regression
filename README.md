@@ -2,7 +2,7 @@
 Linear Regression with Feature selection
 
 
-Predict the target value by fitting best linear line relationship beteen independant and dependant variables.
+Predict the target value by fitting best linear line relationship between independant and dependant variables.
 
 Least square method:
         y=mx+c
